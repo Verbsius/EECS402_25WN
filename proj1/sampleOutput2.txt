@@ -1,0 +1,37 @@
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 0 -1 0 4
+Now enter x start and end values: -3 -2
+Enter the number of rectangles to use: 
+Rectangle result is: 2.333325
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 0 -1 0 4
+Now enter x start and end values: -2 2
+Enter the number of rectangles to use: 100
+Rectangle result is: 10.667200
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 0 -1 0 4
+Now enter x start and end values: 2 3
+Enter the number of rectangles to use: 100
+Rectangle result is: 2.333325
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 0 -1 0 4
+Now enter x start and end values: -3 3
+Enter the number of rectangles to use: 100
+Rectangle result is: 15.330720
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 3
+Thanks for using this program

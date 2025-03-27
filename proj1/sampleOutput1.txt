@@ -1,0 +1,55 @@
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter the number of rectangles to use: 2
+Rectangle result is: 28.875000
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter the number of rectangles to use: 10
+Rectangle result is: 34.275000
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter the number of rectangles to use: 30
+Rectangle result is: 34.475000
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 1
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter the number of rectangles to use: 40
+Rectangle result is: 34.485938
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 2
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter correct answer: 34.5
+Enter precision to reach: 0.02
+Rectangles needed to reach precision: 34
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 2
+Enter (a b c d) for function y = a*x^3 + b*x^2 + c*x + d: 2.0 -5.0 -2.0 9.0
+Now enter x start and end values: 1.0 4.0
+Enter correct answer: 567.0
+Enter precision to reach: 0.02
+Tried 100 rectangles without reaching precision
+1 Approximate Integral Using Rectangles
+2 Experiment With Rectangle Precision
+3 Quit The Program
+YOUR CHOICE: 3
+Thanks for using this program
