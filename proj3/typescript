@@ -1,0 +1,41 @@
+Script started on 2025-03-21 15:33:15-04:00
+bash-4.4$ pr[K[K./proj3.exe deer.ppm 
+Reading initial image from: deer.ppm
+Image read successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 1
+Enter name of file containing message: EECS$ 402.r xtxt    txt
+Enter row and column for message placement: 0 0 
+Message encode successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 3
+Enter name of file to write image to: deerEncoded.ppm
+Image write successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 2
+Image modified to decoded image contents
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 3
+Enter name of file to write image to: D deerd Decoded.ppm
+Image write successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 4
+Thanks for using this program!bash-4.4$ exit
+exit
+
+Script done on 2025-03-21 15:34:36-04:00
